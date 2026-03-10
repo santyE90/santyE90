@@ -2,15 +2,15 @@
 
 ### AI Specialist & Full-Stack Developer
 
-**Queen's University | Computing (Honours), Specialization in AI**
+**Queen's University | Computing (Honours), Specialization in AI, Minor in Economics**
 
-I am a developer focused on the intersection of **Artificial Intelligence** and **Scalable Web Systems**. My work centers on building high-performance applications that turn complex data streams into actionable insights.
+I’m a developer at Queen's University focused on AI and web systems. I like building tools that take messy, high-volume data and turn it into something actually useful and easy to understand.
 
 ---
 
 ### Current Focus
 
-I am a **Co-Founder at StirlingTech**, where I architected a **Retrieval-Augmented Generation (RAG)** pipeline and **multi-agent validation systems** to transform financial data into automated audio briefings. My goal is to leverage AI to solve information density challenges through low-latency, high-accuracy systems.
+I’m a co-founder at StirlingTech. Right now, I’m working on EuphorAI, which uses RAG pipelines and multi-agent validation to convert complex financial filings into daily audio briefings. My goal is to make dense information more accessible through fast, reliable AI systems.
 
 ### Technical Toolkit
 
